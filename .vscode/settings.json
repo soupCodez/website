@@ -2,7 +2,7 @@
 	"editor.detectIndentation": true,
 	"files.eol": "\n",
 	"files.associations": {
-		"*.mdx": "markdown"
+		"*.mdx": "mdx"
 	},
 	"cSpell.language": "en-GB",
 	"cSpell.maxNumberOfProblems": 8,
